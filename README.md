@@ -1,1 +1,1 @@
-# ACM-Summer-School-2025
+# ACM-Summer-School-Crypto-2025
